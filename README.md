@@ -1,4 +1,6 @@
 # rps-game
+https://mpfuns.github.io/rps-game/
+
 Rock, Paper, Scissors Game 
 
 The  goal of  this  game 
